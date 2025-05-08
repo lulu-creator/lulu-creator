@@ -12,7 +12,7 @@
 
 - 🌱 I'm currently learning **Python, HTML, and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://lulu-creator.github.io/my-portifolio/](https://lulu-creator.github.io/my-portifolio/)
+- 👨‍💻 All of my projects are available at [https://lulu-creator.github.io/my-portifolio/](https://lulu-creator.github.io/my_portfolio/)
 
 - 💬 Ask me about **Python**
 
