@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/leulleo8" target="blank"><img src="https://img.shields.io/twitter/follow/leulleo8?logo=twitter&style=for-the-badge" alt="leulleo8" /></a> </p>
 
-- 🌱 I’m currently learning **python, HTML,**
+- 🌱 I'm currently learning **Python, HTML, and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://lulu-creator.github.io/my-portifolio/](https://lulu-creator.github.io/my-portifolio/)
 
