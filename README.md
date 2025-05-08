@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Leul;A+passionate+coder+from+Ethiopia" alt="Typing SVG" />
+</div>
+
 # profile
 <h1 align="center">Hi 👋, I'm Leul</h1>
 <h3 align="center">A passionate coder from Ethiopia</h3>
@@ -29,3 +33,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lulu-creator&show_icons=true&locale=en" alt="lulu-creator" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lulu-creator&" alt="lulu-creator" /></p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lulu-creator&label=Profile%20views&color=0e75b6&style=flat" alt="lulu-creator" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Skills-Python%20|%20HTML%20|%20JavaScript-blue" alt="Skills" />
+</div>
