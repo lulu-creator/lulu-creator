@@ -17,7 +17,7 @@
 
 ## My Projects 🛠️
 
-Check out my portfolio: [https://lulu-creator.github.io/my-portifolio/](https://lulu-creator.github.io/my-portifolio/)
+Check out my portfolio: [https://lulu-creator.github.io/my_portfolio/](https://lulu-creator.github.io/my_portfolio/)
 
 ## Tech Stack 💻
 
